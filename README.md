@@ -10,22 +10,22 @@
   <img alt="Scala" src="https://img.shields.io/badge/-scala-2088FF?style=flat-square&logo=scala&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-javascript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-css3-E34F26?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-FFC0CB?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-css3-00008B?style=flat-square&logo=css3&logoColor=white" />
 </p>
  <h3>Platform related</h4>
  <p>
-  <img alt="springboot" src="https://img.shields.io/badge/-springboot-E34F26?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/-react-E34F26?style=flat-square&logo=react&logoColor=white" />
+  <img alt="springboot" src="https://img.shields.io/badge/-springboot-FF6347?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-react-008080?style=flat-square&logo=react&logoColor=white" />
 </p>
   <h3>Bigdata realted</h4>
    <p>
-  <img alt="spark" src="https://img.shields.io/badge/-spark-E34F26?style=flat-square&logo=apachespark&logoColor=white" />
-  <img alt="flink" src="https://img.shields.io/badge/-flink-E34F26?style=flat-square&logo=apacheflink&logoColor=white" />
-  <img alt="kafka" src="https://img.shields.io/badge/-kafka-E34F26?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="spark" src="https://img.shields.io/badge/-spark-FF00FF?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="flink" src="https://img.shields.io/badge/-flink-FFA500?style=flat-square&logo=apacheflink&logoColor=white" />
+  <img alt="kafka" src="https://img.shields.io/badge/-kafka-8B008B?style=flat-square&logo=apachekafka&logoColor=white" />
   </p>
  <h3>database realated</h4>
   <p>
-  <img alt="redis" src="https://img.shields.io/badge/-redis-E34F26?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/-mysql-E34F26?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/-redis-800000?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-mysql-000080?style=flat-square&logo=mysql&logoColor=white" />
   </p>
