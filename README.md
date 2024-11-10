@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my Github! </br> I'm DarkChink, Fullstack developer from Lianyungang, China<img alt="China" src="" />, currently living in BeiJing, China<img alt="China" src="https://www.flaticon.com/free-icon/china_197375?term=china+flag&page=1&position=1&origin=tag&related_id=197375" /></b>. </p>
+<p>Welcome to my Github! </br> I'm DarkChink, Fullstack developer from Lianyungang, China, currently living in BeiJing, China</b>. 
+</p>
 
 <h3>the language I code:</h3>
 <p>
