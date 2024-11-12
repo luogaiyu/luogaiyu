@@ -23,6 +23,8 @@
   <img alt="spark" src="https://img.shields.io/badge/-spark-FF00FF?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="flink" src="https://img.shields.io/badge/-flink-FFA500?style=flat-square&logo=apacheflink&logoColor=white" />
   <img alt="kafka" src="https://img.shields.io/badge/-kafka-8B008B?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="clickhouse" src="https://img.shields.io/badge/-clickhouse-2088FF?style=flat-square&logo=apacheclickhouse&logoColor=white" />   
+  <img alt="hive" src="https://img.shields.io/badge/-hive-008080?style=flat-square&logo=apachehive&logoColor=white" />   
   </p>
  <h3>database realated</h4>
   <p>
