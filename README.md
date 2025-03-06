@@ -2,6 +2,7 @@
 <p>Welcome to my Github! </br> I'm DarkChink, Fullstack developer from Lianyungang, China, currently living in BeiJing, China</b>. 
 </p>
 
+Now i'm working in database
 <h3>the language I code:</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=Go&logoColor=white" />
