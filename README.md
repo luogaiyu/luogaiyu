@@ -32,3 +32,7 @@ Now i'm working in database
   <img alt="redis" src="https://img.shields.io/badge/-redis-800000?style=flat-square&logo=redis&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-000080?style=flat-square&logo=mysql&logoColor=white" />
   </p>
+
+# Project 
+1. self_homepage -ing
+2. app- life books
